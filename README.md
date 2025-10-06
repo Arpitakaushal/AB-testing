@@ -7,7 +7,7 @@ It helps marketers and analysts **understand which advertising platform drives m
 
 ## 📂 Files in this Repository
 - `marketing_campaign.csv` → Dataset used for analysis  
-  - Dataset link: [Download CSV](https://example.com/marketing_campaign.csv)  
+  - Dataset link: [Download CSV](https://github.com/Arpitakaushal/AB-testing/edit/main/marketing_campaign.csv)  
 - `facebook_ads_analysis.ipynb` → Jupyter Notebook with all code and analysis  
 - `README.md` → Documentation for the project  
 
